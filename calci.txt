@@ -1,5 +1,9 @@
 #practical 1
 Class Calculator {
+static int div(int a, int b){
+return a/b
+}
+ 
 static void main(String [] args){
 
 }
