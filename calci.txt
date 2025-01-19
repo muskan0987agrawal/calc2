@@ -1,5 +1,9 @@
 #practical 1
 Class Calculator {
+static int sub(int a, int b){
+return a>b:a-b ?b-a
+}
+
 static void main(String [] args){
 
 }
