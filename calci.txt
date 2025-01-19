@@ -1,1 +1,6 @@
 #practical 1
+Class Calculator {
+static void main(String [] args){
+
+}
+}
